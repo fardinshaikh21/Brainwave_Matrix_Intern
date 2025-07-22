@@ -1,6 +1,1 @@
  # :rocket:Brainwave_Matrix_Intern
-
-sd
-vags
-😄
-gajs
