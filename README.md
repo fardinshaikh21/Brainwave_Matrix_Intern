@@ -36,14 +36,14 @@
 
 ### 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FardinShaikh&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fardinshaikh21&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### 👀 Visitor Count  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FardinShaikh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fardinshaikh21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
