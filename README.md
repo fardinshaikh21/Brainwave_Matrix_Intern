@@ -50,13 +50,13 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/fardinshaikh01" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:fardinshaikh8875@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/FardinShaikh" target="_blank">
+  <a href="https://github.com/FardinShaikh21" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
